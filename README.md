@@ -56,10 +56,10 @@
 
   <!-- Platforms & Tools -->
   <a href="https://colab.research.google.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Colaboratory.svg" height="40" alt="Google Colab"/>
+    <img src="https://raw.githubusercontent.com/Avni-Tapadiya/Avni-Tapadiya/main/assets/colab-custom.png.png" height="40" alt="Google Colab"/>
   </a>
   <a href="https://notebooklm.google/" target="_blank">
-    <img src="https://github.com/Avni-Tapadiya/Avni-Tapadiya/assets/17172405/6483e2b1-5604-40d7-a1e7-d822f5cf20cc" height="40" alt="NotebookLM"/>
+    <img src="https://raw.githubusercontent.com/Avni-Tapadiya/Avni-Tapadiya/main/assets/notebooklm-custom.png.png" height="40" alt="NotebookLM"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="40" alt="Tableau"/>
@@ -68,7 +68,7 @@
     <img src="https://learn.microsoft.com/en-us/media/logos/logo_power-bi.svg" height="40" alt="Power BI"/>
   </a>
   <a href="https://www.make.com/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/49617047?s=200&v=4" height="40" alt="Make.com"/>
+    <img src="https://raw.githubusercontent.com/Avni-Tapadiya/Avni-Tapadiya/main/assets/make-custom.png.png" height="40" alt="Make.com"/>
   </a>
   <a href="https://n8n.io/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" height="40" alt="n8n"/>
